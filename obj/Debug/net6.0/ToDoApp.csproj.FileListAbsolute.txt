@@ -1,0 +1,15 @@
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\ToDoApp\bin\Debug\net6.0\ToDoApp.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\ToDoApp\bin\Debug\net6.0\ToDoApp.deps.json
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\ToDoApp\bin\Debug\net6.0\ToDoApp.runtimeconfig.json
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\ToDoApp\bin\Debug\net6.0\ToDoApp.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\ToDoApp\bin\Debug\net6.0\ref\ToDoApp.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\ToDoApp\bin\Debug\net6.0\ToDoApp.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\ToDoApp\obj\Debug\net6.0\ToDoApp.csproj.AssemblyReference.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\ToDoApp\obj\Debug\net6.0\ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\ToDoApp\obj\Debug\net6.0\ToDoApp.AssemblyInfoInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\ToDoApp\obj\Debug\net6.0\ToDoApp.AssemblyInfo.cs
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\ToDoApp\obj\Debug\net6.0\ToDoApp.csproj.CoreCompileInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\ToDoApp\obj\Debug\net6.0\ToDoApp.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\ToDoApp\obj\Debug\net6.0\ref\ToDoApp.dll
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\ToDoApp\obj\Debug\net6.0\ToDoApp.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\Projects\ToDoApp\obj\Debug\net6.0\ToDoApp.genruntimeconfig.cache
